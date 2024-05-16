@@ -1,0 +1,8 @@
+PermanentEmployee,ustin,22,sales,60000
+TemporaryEmployee,sales,21,sales,23,20
+PermanentEmployee,Paul,45,Marketing,55000
+TemporaryEmployee,Deborah,55,sales,23,80
+PermanentEmployee,Paula,21,Marketing,77000
+TemporaryEmployee,Jana,24,sales,21,80
+PermanentEmployee,jose,22,marketing,67000
+TemporaryEmployee,sara,22,sales,21,80
